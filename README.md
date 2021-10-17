@@ -20,8 +20,13 @@ A microprocessor is a computer processor wherein the data processing logic and c
    <th> Youtube Video </th>
   </tr>
      <tr>
-     <td> Led blink using microcontroller </td>
+     <td>  Led blink using microcontroller </td>
      <td><img src="./lab1/lab1.png"></img>  </td>
-      <td>  </td>
+     <td><a href="https://youtu.be/Dnk83pcP2no"> Tutorial </td>
+     </tr>
+      <tr>
+     <td> One Led blink in circuler manner on 1s delay using microcontroller </td>
+     <td><img src="./lab 2/LED2.PNG"></img>  </td>
+      <td><a href="https://youtu.be/DreXOVcRsec"> Tutorial </td>
      </tr>
   </table>
