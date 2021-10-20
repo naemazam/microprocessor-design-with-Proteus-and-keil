@@ -29,4 +29,9 @@ A microprocessor is a computer processor wherein the data processing logic and c
      <td><img src="./lab 2/LED2.PNG"></img>  </td>
       <td><a href="https://youtu.be/DreXOVcRsec"> Tutorial </td>
      </tr>
+     <tr>
+     <td> 4 multiplex Seven Segment Display With same output </td>
+     <td><img src="./lab3/3.PNG"></img>  </td>
+      <td><a href="https://youtu.be/6ktwKmjAvAk"> Tutorial </td>
+     </tr>
   </table>
