@@ -37,7 +37,7 @@ A microprocessor is a computer processor wherein the data processing logic and c
      <tr>
      <td> use one 7-seg display to show the pressed key 
 number</td>
-     <td><img src="./lab4/lab.PNG"></img>  </td>
+     <td><img src="./lab4/lab42.PNG"></img>  </td>
       <td><a href="#"> Tutorial </td>
      </tr>
   </table>
