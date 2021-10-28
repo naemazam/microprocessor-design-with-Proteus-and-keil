@@ -34,4 +34,10 @@ A microprocessor is a computer processor wherein the data processing logic and c
      <td><img src="./lab3/3.PNG"></img>  </td>
       <td><a href="https://youtu.be/6ktwKmjAvAk"> Tutorial </td>
      </tr>
+     <tr>
+     <td> use one 7-seg display to show the pressed key 
+number</td>
+     <td><img src="./lab4/lab.PNG"></img>  </td>
+      <td><a href="#"> Tutorial </td>
+     </tr>
   </table>
