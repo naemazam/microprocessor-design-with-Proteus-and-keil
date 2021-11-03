@@ -40,4 +40,10 @@ number</td>
      <td><img src="./lab4/lab42.PNG"></img>  </td>
       <td><a href="#"> Tutorial </td>
      </tr>
+     <tr>
+     <td>use one 7-seg display  to show the pressed key
+number (0 to F) with 4*4 matrix display </td>
+     <td><img src="./lab%205/lab5.PNG"></img>  </td>
+      <td><a href="https://youtu.be/7w-lL5B9Ti4"> Tutorial </td>
+     </tr>
   </table>
