@@ -47,7 +47,7 @@ number (0 to F) with 4*4 matrix display </td>
       <td><a href="https://youtu.be/7w-lL5B9Ti4"> Tutorial </td>
      </tr>
      <tr>
-     <td>control LED to be on and off with 1s interval </td>
+     <td>control LED to be on and off with 1s interval with timer </td>
      <td><img src="./lab6/lab6.PNG"></img>  </td>
       <td><a href=""> Tutorial </td>
      </tr>
