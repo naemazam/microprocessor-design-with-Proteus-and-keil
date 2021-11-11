@@ -54,7 +54,7 @@ number (0 to F) with 4*4 matrix display </td>
      <tr>
      <td>Master-Slave Serial Communication</td>
      <td><img src="./lab7/lab7.PNG"></img>  </td>
-      <td><a href=""> Tutorial </td>
+      <td><a href="https://www.youtube.com/watch?v=55szTXuL-1E"> Tutorial </td>
      </tr>
      
      
