@@ -51,6 +51,11 @@ number (0 to F) with 4*4 matrix display </td>
      <td><img src="./lab6/lab6.PNG"></img>  </td>
       <td><a href=""> Tutorial </td>
      </tr>
+     <tr>
+     <td>Master-Slave Serial Communication</td>
+     <td><img src="./lab7/lab7.PNG"></img>  </td>
+      <td><a href=""> Tutorial </td>
+     </tr>
      
      
   </table>
