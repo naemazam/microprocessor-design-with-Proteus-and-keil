@@ -57,9 +57,9 @@ number (0 to F) with 4*4 matrix display </td>
       <td><a href="https://www.youtube.com/watch?v=55szTXuL-1E"> Tutorial </td>
      </tr>
      <tr>
-     <td>Text on Display</td>
+     <td>scoriling Text on Display</td>
      <td><img src="./lab8/lab8.PNG"></img>  </td>
-      <td><a href=""> Tutorial </td>
+      <td><a href="https://www.youtube.com/watch?v=qBEllj1PeKM"> Tutorial </td>
      </tr>
      
   </table>
